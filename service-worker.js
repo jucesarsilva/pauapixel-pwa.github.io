@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.3eb4ba3e4170f1d737dd7db74d0a77f6.js"
+  "precache-manifest.23f66108af0b4a1f93e781dc6d5d9341.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pauapixel-pwa"});

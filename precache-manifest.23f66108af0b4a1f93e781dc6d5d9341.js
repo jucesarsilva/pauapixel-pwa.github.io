@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/5.a8326b7d.css"
   },
   {
-    "revision": "0ba51744c61720177b53",
-    "url": "css/app.9fa89c97.css"
+    "revision": "417665fa1e6e3ff4591b",
+    "url": "css/app.37510b41.css"
   },
   {
     "revision": "5cb7edfceb233100075dc9a1e12e8da3",
@@ -32,6 +32,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/KFOmCnqEu92Fr1Mu4mxM.60fa3c06.woff"
   },
   {
+    "revision": "ebc7385f9f207b4ad5d0cc4204bf4068",
+    "url": "fonts/MavenPro-Regular.ebc7385f.ttf"
+  },
+  {
     "revision": "29b882f018fa6fe75fd338aaae6235b8",
     "url": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.29b882f0.woff"
   },
@@ -48,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/icon.98eab936.png"
   },
   {
-    "revision": "265aa1037c4e38844598abb25d80668a",
+    "revision": "55bc678374e91110f46becb38d647a73",
     "url": "index.html"
   },
   {
@@ -80,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/8.a60b7e4b.js"
   },
   {
-    "revision": "0ba51744c61720177b53",
-    "url": "js/app.37541464.js"
+    "revision": "417665fa1e6e3ff4591b",
+    "url": "js/app.4fac7af3.js"
   },
   {
     "revision": "679274c5989c1ea4b4fb",
